@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #d8aaaa;
+    margin: 30px;
+}
+
+header div{
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-1{
+background-color: #42137b;
+height: 100px;
+width: auto;
+}
+
+.main-2{
+    background-color: #561f1f;
+    height: 200px;
+}
+
+.first-1 div{
+    margin: 10px;
+    height: 100px;
+   
+}
+footer{
+    background-color: #fff;
+}
